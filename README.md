@@ -17,6 +17,6 @@ Este projeto é um conversor de moedas desenvolvido em Java utilizando o paradig
 ## Como Utilizar
 
 1. Clone este repositório: `git clone https://github.com/itsnotgabxx/ConversorDeMoedas.git`
-2. Navegue até o diretório do projeto: `cd conversor-de-moedas`
+2. Navegue até o diretório do projeto: `cd ConversorDeMoedas`
 3. Compile o projeto: `javac Principal.java`
 4. Execute o programa: `java Principal`
